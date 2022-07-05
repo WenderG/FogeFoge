@@ -1,4 +1,4 @@
-# cursos
+# Jogo FogeFoge
 
 > Status do projeto: finalizado.
 
